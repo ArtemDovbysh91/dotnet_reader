@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/node16/tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "./",
+    "outDir": "./dist",
+  },
+  "include": [
+    "core",
+    "src",
+  ],
+  "exclude": [
+    "node_modules",
+  ],
+}
