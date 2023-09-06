@@ -1,22 +1,7 @@
 {
-  "CodeMaze": {
-    "timestamp": "2023-09-05T01:34:17.852Z",
-    "message": "403: Forbidden: bot can't send messages to bots",
-    "counter": 2
-  },
-  "Habr / .NET": {
-    "timestamp": "2023-09-05T01:34:22.300Z",
-    "message": "403: Forbidden: bot can't send messages to bots",
-    "counter": 2
-  },
   "Maoni": {
     "timestamp": "2023-04-18T14:46:01.053Z",
     "message": "Failed to parse html page by url https://maoni0.medium.com. No posts found.",
     "counter": 6
-  },
-  "TheMorningBrew": {
-    "timestamp": "2023-09-05T01:34:31.225Z",
-    "message": "403: Forbidden: bot can't send messages to bots",
-    "counter": 2
   }
 }
