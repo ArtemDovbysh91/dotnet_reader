@@ -4,6 +4,11 @@
     "message": "Failed to parse html page by url https://codeopinion.com. No posts found.",
     "counter": 11
   },
+  "JetBrains / How-To's": {
+    "timestamp": "2023-11-13T10:49:59.991Z",
+    "message": "Post is not valid: title is empty.",
+    "counter": 1
+  },
   "Maoni": {
     "timestamp": "2023-04-18T14:46:01.053Z",
     "message": "Failed to parse html page by url https://maoni0.medium.com. No posts found.",
