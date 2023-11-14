@@ -4,6 +4,11 @@
     "message": "Failed to parse html page by url https://codeopinion.com. No posts found.",
     "counter": 11
   },
+  "Haacked": {
+    "timestamp": "2023-11-14T04:49:53.012Z",
+    "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
+    "counter": 1
+  },
   "JetBrains / How-To's": {
     "timestamp": "2023-11-13T12:58:41.583Z",
     "message": "Post is not valid: title is empty.",
