@@ -25,9 +25,9 @@
     "counter": 6
   },
   "RadioDotNet": {
-    "timestamp": "2023-11-30T08:53:10.557Z",
-    "message": "Request failed with status code 520",
-    "counter": 1
+    "timestamp": "2023-11-30T10:53:35.958Z",
+    "message": "Request failed with status code 504",
+    "counter": 2
   },
   "StevenGiesel": {
     "timestamp": "2023-11-30T01:42:21.259Z",
