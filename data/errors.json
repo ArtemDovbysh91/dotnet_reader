@@ -24,11 +24,6 @@
     "message": "Failed to parse html page by url https://maoni0.medium.com. No posts found.",
     "counter": 6
   },
-  "RadioDotNet": {
-    "timestamp": "2023-12-04T22:53:36.719Z",
-    "message": "Request failed with status code 504",
-    "counter": 1
-  },
   "StevenGiesel": {
     "timestamp": "2023-12-04T06:50:03.923Z",
     "message": "400: Bad Request: wrong file identifier/HTTP URL specified",
