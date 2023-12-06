@@ -25,8 +25,8 @@
     "counter": 6
   },
   "StevenGiesel": {
-    "timestamp": "2023-12-05T06:50:09.554Z",
-    "message": "400: Bad Request: failed to get HTTP URL content",
-    "counter": 8
+    "timestamp": "2023-12-06T08:50:11.820Z",
+    "message": "400: Bad Request: wrong file identifier/HTTP URL specified",
+    "counter": 9
   }
 }
