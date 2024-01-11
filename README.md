@@ -1,10 +1,10 @@
-# Amazing .NET
+# .NET Bot
 
-Этот репозиторий мониторит различные ресурсы, связанные с .NET тематикой, и публикует обновления в telegram-канал [Amazing .NET](https://t.me/amazing_dotnet).
+This repo monitors .Net-related sources and pushes updates into the telegram channel.
 
-## Какие ресурсы мониторятся?
+## What resources are monitored?
 
-- Коллективные блоги:
+- Companies blogs:
     - Microsoft Developer Blogs:
         - .NET Blog - https://devblogs.microsoft.com/dotnet/
         - OData - https://devblogs.microsoft.com/odata/
@@ -16,23 +16,22 @@
         - How-To's - https://blog.jetbrains.com/dotnet/category/how-tos/
         - Releases - https://blog.jetbrains.com/dotnet/category/releases/
         - .NET Annotated - https://blog.jetbrains.com/dotnet/tag/net-annotated/
-    - Хабр (статьи с рейтингом 10 и выше):
+    - Habr (with rait 10 or more):
         - .NET - https://habr.com/ru/hub/net/
         - C# - https://habr.com/ru/hub/csharp/
         - F# - https://habr.com/ru/hub/fsharp/
     - Code Maze - https://code-maze.com
 
-- Персональные блоги:
+- Personal blogs:
     - Andrew Lock - .NET Escapades - https://andrewlock.net
     - Chris Alcock - The Morning Brew - https://blog.cwa.me.uk
     - Derek Comartin - CodeOpinion - https://codeopinion.com
     - Gérald Barré - Meziantou's blog - https://www.meziantou.net
     - Khalid Abuhakmeh - https://khalidabuhakmeh.com
-    - ~~Maoni Stephens - https://maoni0.medium.com~~ (Временно не работает)
     - Michael Shpilt - Michael's Coding Spot - https://michaelscodingspot.com
     - Steven Giesel - https://steven-giesel.com
     - Vladimir Khorikov - Enterprise Craftsmanship - https://enterprisecraftsmanship.com/posts
     - Wade Gausden - .NET Core Tutorials - https://dotnetcoretutorials.com
 
-- Подкасты:
+- Podcast:
     - RadioDotNet - https://radiodotnet.mave.digital
