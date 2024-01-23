@@ -4,6 +4,11 @@
     "message": "Failed to parse html page by url https://codeopinion.com. No posts found.",
     "counter": 11
   },
+  "DotNetCoreTutorials": {
+    "timestamp": "2024-01-23T01:45:33.555Z",
+    "message": "certificate has expired",
+    "counter": 1
+  },
   "Haacked": {
     "timestamp": "2023-11-24T01:39:48.667Z",
     "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
