@@ -14,21 +14,6 @@
     "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
     "counter": 11
   },
-  "Habr / .NET": {
-    "timestamp": "2024-02-17T10:50:47.725Z",
-    "message": "Request failed with status code 504",
-    "counter": 1
-  },
-  "Habr / C#": {
-    "timestamp": "2024-02-17T10:51:52.182Z",
-    "message": "Request failed with status code 504",
-    "counter": 1
-  },
-  "Habr / F#": {
-    "timestamp": "2024-02-17T10:53:08.885Z",
-    "message": "Request failed with status code 504",
-    "counter": 1
-  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2023-12-21T08:50:08.632Z",
     "message": "Post is not valid: title is empty.",
