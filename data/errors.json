@@ -19,21 +19,6 @@
     "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
     "counter": 11
   },
-  "Habr / .NET": {
-    "timestamp": "2024-06-19T20:49:50.894Z",
-    "message": "Request failed with status code 503",
-    "counter": 1
-  },
-  "Habr / C#": {
-    "timestamp": "2024-06-19T20:49:53.830Z",
-    "message": "Request failed with status code 503",
-    "counter": 1
-  },
-  "Habr / F#": {
-    "timestamp": "2024-06-19T20:49:56.740Z",
-    "message": "Request failed with status code 503",
-    "counter": 1
-  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2023-12-21T08:50:08.632Z",
     "message": "Post is not valid: title is empty.",
@@ -53,6 +38,11 @@
     "timestamp": "2023-04-18T14:46:01.053Z",
     "message": "Failed to parse html page by url https://maoni0.medium.com. No posts found.",
     "counter": 6
+  },
+  "RadioDotNet": {
+    "timestamp": "2024-06-19T22:50:34.570Z",
+    "message": "Request failed with status code 503",
+    "counter": 1
   },
   "StevenGiesel": {
     "timestamp": "2023-12-08T10:50:13.006Z",
