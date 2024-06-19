@@ -19,6 +19,21 @@
     "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
     "counter": 11
   },
+  "Habr / .NET": {
+    "timestamp": "2024-06-19T20:49:50.894Z",
+    "message": "Request failed with status code 503",
+    "counter": 1
+  },
+  "Habr / C#": {
+    "timestamp": "2024-06-19T20:49:53.830Z",
+    "message": "Request failed with status code 503",
+    "counter": 1
+  },
+  "Habr / F#": {
+    "timestamp": "2024-06-19T20:49:56.740Z",
+    "message": "Request failed with status code 503",
+    "counter": 1
+  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2023-12-21T08:50:08.632Z",
     "message": "Post is not valid: title is empty.",
