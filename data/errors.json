@@ -40,9 +40,9 @@
     "counter": 6
   },
   "RadioDotNet": {
-    "timestamp": "2024-06-30T04:50:21.567Z",
+    "timestamp": "2024-06-30T06:50:00.851Z",
     "message": "connect ECONNREFUSED 88.212.208.67:443",
-    "counter": 1
+    "counter": 2
   },
   "StevenGiesel": {
     "timestamp": "2023-12-08T10:50:13.006Z",
