@@ -19,11 +19,6 @@
     "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
     "counter": 11
   },
-  "Habr / C#": {
-    "timestamp": "2024-07-08T02:51:30.788Z",
-    "message": "Failed to parse html page by url https://habr.com/ru/hub/csharp/. No posts found.",
-    "counter": 1
-  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2023-12-21T08:50:08.632Z",
     "message": "Post is not valid: title is empty.",
