@@ -19,21 +19,6 @@
     "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
     "counter": 11
   },
-  "Habr / .NET": {
-    "timestamp": "2024-07-08T10:50:03.375Z",
-    "message": "Failed to parse html page by url https://habr.com/ru/hub/net/. No posts found.",
-    "counter": 1
-  },
-  "Habr / C#": {
-    "timestamp": "2024-07-08T10:50:04.759Z",
-    "message": "Failed to parse html page by url https://habr.com/ru/hub/csharp/. No posts found.",
-    "counter": 1
-  },
-  "Habr / F#": {
-    "timestamp": "2024-07-08T10:50:05.747Z",
-    "message": "Failed to parse html page by url https://habr.com/ru/hub/fsharp/. No posts found.",
-    "counter": 1
-  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2023-12-21T08:50:08.632Z",
     "message": "Post is not valid: title is empty.",
