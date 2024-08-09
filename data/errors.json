@@ -39,6 +39,11 @@
     "message": "Failed to parse html page by url https://maoni0.medium.com. No posts found.",
     "counter": 6
   },
+  "RadioDotNet": {
+    "timestamp": "2024-08-09T12:59:56.267Z",
+    "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
+    "counter": 1
+  },
   "StevenGiesel": {
     "timestamp": "2023-12-08T10:50:13.006Z",
     "message": "400: Bad Request: failed to get HTTP URL content",
