@@ -9,6 +9,36 @@
     "message": "Failed to parse html page by url https://codeopinion.com. No posts found.",
     "counter": 11
   },
+  "DevBlogs / .NET Blog": {
+    "timestamp": "2024-09-03T16:50:04.617Z",
+    "message": "Failed to parse html page by url https://devblogs.microsoft.com/dotnet/. No posts found.",
+    "counter": 1
+  },
+  "DevBlogs / OData": {
+    "timestamp": "2024-09-03T16:50:04.922Z",
+    "message": "Failed to parse html page by url https://devblogs.microsoft.com/odata/. No posts found.",
+    "counter": 1
+  },
+  "DevBlogs / The NuGet Blog": {
+    "timestamp": "2024-09-03T16:50:05.207Z",
+    "message": "Failed to parse html page by url https://devblogs.microsoft.com/nuget/. No posts found.",
+    "counter": 1
+  },
+  "DevBlogs / TypeScript": {
+    "timestamp": "2024-09-03T16:50:05.518Z",
+    "message": "Failed to parse html page by url https://devblogs.microsoft.com/typescript/. No posts found.",
+    "counter": 1
+  },
+  "DevBlogs / Visual Studio Blog": {
+    "timestamp": "2024-09-03T16:50:05.786Z",
+    "message": "Failed to parse html page by url https://devblogs.microsoft.com/visualstudio/. No posts found.",
+    "counter": 1
+  },
+  "DevBlogs / Windows Command Line": {
+    "timestamp": "2024-09-03T16:50:06.089Z",
+    "message": "Failed to parse html page by url https://devblogs.microsoft.com/commandline/. No posts found.",
+    "counter": 1
+  },
   "DotNetCoreTutorials": {
     "timestamp": "2024-02-01T12:54:54.239Z",
     "message": "certificate has expired",
