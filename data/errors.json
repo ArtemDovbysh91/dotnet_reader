@@ -10,34 +10,34 @@
     "counter": 11
   },
   "DevBlogs / .NET Blog": {
-    "timestamp": "2024-09-03T16:50:04.617Z",
+    "timestamp": "2024-09-03T18:49:43.406Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/dotnet/. No posts found.",
-    "counter": 1
+    "counter": 2
   },
   "DevBlogs / OData": {
-    "timestamp": "2024-09-03T16:50:04.922Z",
+    "timestamp": "2024-09-03T18:49:43.649Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/odata/. No posts found.",
-    "counter": 1
+    "counter": 2
   },
   "DevBlogs / The NuGet Blog": {
-    "timestamp": "2024-09-03T16:50:05.207Z",
+    "timestamp": "2024-09-03T18:49:43.889Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/nuget/. No posts found.",
-    "counter": 1
+    "counter": 2
   },
   "DevBlogs / TypeScript": {
-    "timestamp": "2024-09-03T16:50:05.518Z",
+    "timestamp": "2024-09-03T18:49:43.936Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/typescript/. No posts found.",
-    "counter": 1
+    "counter": 2
   },
   "DevBlogs / Visual Studio Blog": {
-    "timestamp": "2024-09-03T16:50:05.786Z",
+    "timestamp": "2024-09-03T18:49:43.965Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/visualstudio/. No posts found.",
-    "counter": 1
+    "counter": 2
   },
   "DevBlogs / Windows Command Line": {
-    "timestamp": "2024-09-03T16:50:06.089Z",
+    "timestamp": "2024-09-03T18:49:44.001Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/commandline/. No posts found.",
-    "counter": 1
+    "counter": 2
   },
   "DotNetCoreTutorials": {
     "timestamp": "2024-02-01T12:54:54.239Z",
