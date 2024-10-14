@@ -1,4 +1,0 @@
-https://www.meziantou.net/embedding-additional-files-in-an-msbuild-binary-log-file.htm
-https://www.meziantou.net/reading-a-stream-of-jsondocuments-separated-by-new-lines-ndjson
-https://www.meziantou.net/reading-a-stream-of-jsondocuments-separated-by-new-lines-ndjson.htm
-https://www.meziantou.net/reducing-allocations-using-local-variables-to-scope-closures.htm
