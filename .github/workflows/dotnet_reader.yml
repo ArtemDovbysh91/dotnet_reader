@@ -1,4 +1,4 @@
-name: Amazing .NET
+name: dotnet_reader
 
 on:
   push:
