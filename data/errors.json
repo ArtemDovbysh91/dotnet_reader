@@ -49,21 +49,6 @@
     "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
     "counter": 11
   },
-  "Habr / .NET": {
-    "timestamp": "2024-12-18T08:50:33.258Z",
-    "message": "Request failed with status code 500",
-    "counter": 1
-  },
-  "Habr / C#": {
-    "timestamp": "2024-12-18T08:50:38.433Z",
-    "message": "Request failed with status code 500",
-    "counter": 1
-  },
-  "Habr / F#": {
-    "timestamp": "2024-12-18T08:50:43.386Z",
-    "message": "Request failed with status code 500",
-    "counter": 1
-  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2023-12-21T08:50:08.632Z",
     "message": "Post is not valid: title is empty.",
