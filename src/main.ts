@@ -44,7 +44,7 @@ const app = new App(knownHosts => [
   new RadioDotNetScraper(),
   new StevenGieselScraper(),
   new TheMorningBrewScraper(knownHosts),
-  new NetflixScraper(),
+  // new NetflixScraper(),
 ]);
 
 void app.run();
