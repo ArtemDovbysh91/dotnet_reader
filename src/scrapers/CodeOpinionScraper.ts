@@ -19,7 +19,7 @@ export class CodeOpinionScraper extends HtmlPageScraper {
       .fromHtmlPage(this.CodeOpinion.href)
       .fetchPosts(CodeOpinionFetchReader, reader => {
         const post: Post = {
-          image: reader.getImage(),
+          image: undefined,
           title: reader.title,
           href: reader.href,
           categories: [
@@ -46,40 +46,17 @@ class CodeOpinionFetchReader {
     private readonly $: cheerio.CheerioAPI,
     private readonly article: cheerio.Cheerio<cheerio.Element>) { }
 
-  static selector = '#main article';
+  static selector = '.posts-wrapper .content';
 
   readonly link = this.article.find('h2.entry-title a');
   readonly title = this.link.text();
   readonly href = this.link.attr('href') ?? '';
   readonly date = this.article.find('time.entry-date').text();
 
-  getImage(): string | undefined {
-    const href = this.article
-      .find('.container-youtube a[href^=https://www.youtube.com/]')
-      .attr('href');
-
-    if (href) {
-      const index = href.indexOf('?');
-
-      if (index > 0) {
-        const query = href.substring(index + 1);
-        const pairs = query.split('&');
-
-        for (const pair of pairs) {
-          const [name, value] = pair.split('=');
-
-          if (name == 'v') {
-            return `https://img.youtube.com/vi/${value}/maxresdefault.jpg`;
-          }
-        }
-      }
-    }
-  }
-
   getDescription(): string[] {
     const description = [];
     const elements = this.article
-      .find('div.entry-content')
+      .find('.entry-summary')
       .children();
 
     for (const element of elements) {
