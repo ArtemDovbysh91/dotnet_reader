@@ -1,72 +1,67 @@
 {
-  "CodeOpinion": {
-    "timestamp": "2024-12-23T13:02:06.384Z",
-    "message": "Failed to parse html page by url https://codeopinion.com. No posts found.",
-    "counter": 4
-  },
   "DevBlogs / .NET Blog": {
-    "timestamp": "2024-12-23T13:02:06.637Z",
+    "timestamp": "2024-12-23T18:14:26.091Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/dotnet/. No posts found.",
-    "counter": 4
+    "counter": 5
   },
   "DevBlogs / OData": {
-    "timestamp": "2024-12-23T13:02:06.697Z",
+    "timestamp": "2024-12-23T18:14:26.133Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/odata/. No posts found.",
-    "counter": 4
+    "counter": 5
   },
   "DevBlogs / The NuGet Blog": {
-    "timestamp": "2024-12-23T13:02:06.774Z",
+    "timestamp": "2024-12-23T18:14:26.435Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/nuget/. No posts found.",
-    "counter": 4
+    "counter": 5
   },
   "DevBlogs / TypeScript": {
-    "timestamp": "2024-12-23T13:02:06.870Z",
+    "timestamp": "2024-12-23T18:14:26.465Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/typescript/. No posts found.",
-    "counter": 4
+    "counter": 5
   },
   "DevBlogs / Visual Studio Blog": {
-    "timestamp": "2024-12-23T13:02:07.218Z",
+    "timestamp": "2024-12-23T18:14:26.524Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/visualstudio/. No posts found.",
-    "counter": 4
+    "counter": 5
   },
   "DevBlogs / Windows Command Line": {
-    "timestamp": "2024-12-23T13:02:07.307Z",
+    "timestamp": "2024-12-23T18:14:26.559Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/commandline/. No posts found.",
-    "counter": 4
+    "counter": 5
   },
   "DotNetCoreTutorials": {
-    "timestamp": "2024-12-23T13:02:09.162Z",
+    "timestamp": "2024-12-23T18:14:28.119Z",
     "message": "certificate has expired",
-    "counter": 4
+    "counter": 5
   },
   "Haacked": {
-    "timestamp": "2024-12-23T13:02:09.848Z",
+    "timestamp": "2024-12-23T18:14:28.400Z",
     "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
-    "counter": 4
+    "counter": 5
   },
   "JetBrains / .NET Annotated": {
-    "timestamp": "2024-12-23T13:02:32.392Z",
+    "timestamp": "2024-12-23T18:14:44.679Z",
     "message": "Post is not valid: title is empty.",
-    "counter": 4
+    "counter": 5
   },
   "JetBrains / How-To's": {
-    "timestamp": "2024-12-23T13:02:23.185Z",
+    "timestamp": "2024-12-23T18:14:37.978Z",
     "message": "Post is not valid: title is empty.",
-    "counter": 4
+    "counter": 5
   },
   "JetBrains / Releases": {
-    "timestamp": "2024-12-23T13:02:27.850Z",
+    "timestamp": "2024-12-23T18:14:41.223Z",
     "message": "Post is not valid: title is empty.",
-    "counter": 4
+    "counter": 5
   },
   "RadioDotNet": {
-    "timestamp": "2024-12-23T13:02:35.682Z",
+    "timestamp": "2024-12-23T18:14:46.238Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
-    "counter": 4
+    "counter": 5
   },
   "StevenGiesel": {
-    "timestamp": "2024-12-23T13:02:36.351Z",
+    "timestamp": "2024-12-23T18:14:46.671Z",
     "message": "Post is not valid: date is not valid.",
-    "counter": 4
+    "counter": 5
   }
 }
