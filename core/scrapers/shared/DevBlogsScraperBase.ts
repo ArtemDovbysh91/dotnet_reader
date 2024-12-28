@@ -69,13 +69,13 @@ class DevBlogsFetchReader {
     private readonly $: cheerio.CheerioAPI,
     private readonly article: cheerio.Cheerio<cheerio.Element>) { }
 
-  static readonly selector = '#main .entry-box';
+  static readonly selector = '.masonry-card';
 
-  readonly image = this.article.find('.entry-image img').attr('data-src');
-  readonly link = this.article.find('.entry-title a');
-  readonly title = this.link.text();
+  readonly image = this.article.find('img').attr('data-src');
+  readonly link = this.article.find('a');
+  readonly title = this.link.text().trim();
   readonly href = this.link.attr('href') ?? '';
-  readonly date = this.article.find('.entry-post-date').text();
+  readonly date = this.article.find('.card-top').children().children().first().text().trim();
   readonly tags = this.article
     .find('.post-categories-tags a')
     .map((_, element) => this.$(element).text())
