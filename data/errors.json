@@ -1,37 +1,32 @@
 {
   "DotNetCoreTutorials": {
-    "timestamp": "2024-12-28T14:25:27.859Z",
+    "timestamp": "2024-12-28T23:25:23.594Z",
     "message": "certificate has expired",
-    "counter": 10
-  },
-  "Haacked": {
-    "timestamp": "2024-12-28T22:44:45.475Z",
-    "message": "Post is not valid: tag at index 0 is empty, tag at index 1 is empty.",
-    "counter": 1
+    "counter": 11
   },
   "JetBrains / .NET Annotated": {
-    "timestamp": "2024-12-28T14:25:42.673Z",
+    "timestamp": "2024-12-28T23:25:37.947Z",
     "message": "Post is not valid: title is empty.",
-    "counter": 10
+    "counter": 11
   },
   "JetBrains / How-To's": {
-    "timestamp": "2024-12-28T14:25:35.952Z",
+    "timestamp": "2024-12-28T23:25:31.592Z",
     "message": "Post is not valid: title is empty.",
-    "counter": 10
+    "counter": 11
   },
   "JetBrains / Releases": {
-    "timestamp": "2024-12-28T14:25:38.715Z",
+    "timestamp": "2024-12-28T23:25:34.312Z",
     "message": "Post is not valid: title is empty.",
-    "counter": 10
+    "counter": 11
   },
   "RadioDotNet": {
-    "timestamp": "2024-12-28T14:25:44.226Z",
+    "timestamp": "2024-12-28T23:25:40.253Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
-    "counter": 10
+    "counter": 11
   },
   "StevenGiesel": {
-    "timestamp": "2024-12-28T14:25:44.615Z",
+    "timestamp": "2024-12-28T23:25:40.738Z",
     "message": "Post is not valid: date is not valid.",
-    "counter": 10
+    "counter": 11
   }
 }
