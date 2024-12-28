@@ -67,5 +67,5 @@ class HaackedFetchReader {
   readonly href = this.link.attr('href') ?? '';
   readonly date = this.article.find('.meta time.date').attr('datetime');
   readonly description = this.content.find('p').text();
-  readonly tags = this.article.find('.meta .tags').text().split(/\s+/);
+  readonly tags = this.article.find('.meta .tags').text().trim().split(/\s+/);
 }
