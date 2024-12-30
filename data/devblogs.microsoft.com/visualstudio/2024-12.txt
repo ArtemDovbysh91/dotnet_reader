@@ -1,1 +1,2 @@
 https://devblogs.microsoft.com/visualstudio/connect-securely-to-your-azure-resources/
+https://devblogs.microsoft.com/visualstudio/go-to-line-anywhere-with-code-search-for-visual-studio-2022/
