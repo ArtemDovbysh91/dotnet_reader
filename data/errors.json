@@ -4,11 +4,6 @@
     "message": "certificate has expired",
     "counter": 12
   },
-  "Habr / .NET": {
-    "timestamp": "2025-01-03T13:01:32.269Z",
-    "message": "Failed to parse html page by url https://habr.com/ru/hub/net/. No posts found.",
-    "counter": 1
-  },
   "RadioDotNet": {
     "timestamp": "2024-12-29T21:56:14.351Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
