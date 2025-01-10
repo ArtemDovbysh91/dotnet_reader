@@ -1,1 +1,2 @@
 https://codeopinion.com/net-framework-migration-to-net9/
+https://codeopinion.com/vertical-slice-architecture-isnt-technical/
