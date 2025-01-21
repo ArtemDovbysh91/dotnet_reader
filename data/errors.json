@@ -4,16 +4,6 @@
     "message": "certificate has expired",
     "counter": 12
   },
-  "Habr / C#": {
-    "timestamp": "2025-01-21T10:44:55.843Z",
-    "message": "Failed to parse html page by url https://habr.com/ru/hub/csharp/. No posts found.",
-    "counter": 1
-  },
-  "Habr / F#": {
-    "timestamp": "2025-01-21T10:44:57.000Z",
-    "message": "Failed to parse html page by url https://habr.com/ru/hub/fsharp/. No posts found.",
-    "counter": 1
-  },
   "RadioDotNet": {
     "timestamp": "2024-12-29T21:56:14.351Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
