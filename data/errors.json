@@ -4,6 +4,21 @@
     "message": "certificate has expired",
     "counter": 12
   },
+  "JetBrains / .NET Annotated": {
+    "timestamp": "2025-01-29T22:44:52.956Z",
+    "message": "Request failed with status code 403",
+    "counter": 1
+  },
+  "JetBrains / How-To's": {
+    "timestamp": "2025-01-29T22:44:52.928Z",
+    "message": "Request failed with status code 403",
+    "counter": 1
+  },
+  "JetBrains / Releases": {
+    "timestamp": "2025-01-29T22:44:52.942Z",
+    "message": "Request failed with status code 403",
+    "counter": 1
+  },
   "RadioDotNet": {
     "timestamp": "2024-12-29T21:56:14.351Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
