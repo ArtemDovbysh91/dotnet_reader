@@ -1,18 +1,8 @@
 {
-  "CodeMaze": {
-    "timestamp": "2025-01-31T08:45:39.311Z",
-    "message": "Request failed with status code 500",
-    "counter": 2
-  },
   "DotNetCoreTutorials": {
     "timestamp": "2024-12-29T21:55:43.820Z",
     "message": "certificate has expired",
     "counter": 12
-  },
-  "Habr / C#": {
-    "timestamp": "2025-02-01T08:44:39.021Z",
-    "message": "Request failed with status code 502",
-    "counter": 1
   },
   "RadioDotNet": {
     "timestamp": "2024-12-29T21:56:14.351Z",
