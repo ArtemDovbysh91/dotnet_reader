@@ -1,9 +1,4 @@
 {
-  "CodeMaze": {
-    "timestamp": "2025-02-02T10:44:33.967Z",
-    "message": "Failed to parse html page by url https://code-maze.com. No posts found.",
-    "counter": 1
-  },
   "DotNetCoreTutorials": {
     "timestamp": "2024-12-29T21:55:43.820Z",
     "message": "certificate has expired",
