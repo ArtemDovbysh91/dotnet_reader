@@ -27,7 +27,7 @@ export class NetflixScraper extends RssFeedScraper {
       })
       .fetchPosts(NetflixFetchReader, reader => {
         const post: Post = {
-          image: reader.getImage(),
+          image: undefined,
           title: reader.title,
           href: reader.href,
           categories: [
