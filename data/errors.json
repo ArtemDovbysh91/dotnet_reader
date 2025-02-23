@@ -5,18 +5,28 @@
     "counter": 17
   },
   "JetBrains / .NET Annotated": {
-    "timestamp": "2025-02-23T13:35:18.151Z",
-    "message": "Request failed with status code 404",
-    "counter": 18
+    "timestamp": "2025-02-23T18:09:13.163Z",
+    "message": "Request failed with status code 403",
+    "counter": 19
+  },
+  "JetBrains / How-To's": {
+    "timestamp": "2025-02-23T18:09:13.153Z",
+    "message": "Request failed with status code 403",
+    "counter": 1
+  },
+  "JetBrains / Releases": {
+    "timestamp": "2025-02-23T18:09:13.158Z",
+    "message": "Request failed with status code 403",
+    "counter": 1
   },
   "RadioDotNet": {
-    "timestamp": "2025-02-23T13:35:19.884Z",
+    "timestamp": "2025-02-23T18:09:15.032Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
-    "counter": 19
+    "counter": 20
   },
   "StevenGiesel": {
-    "timestamp": "2025-02-23T13:35:20.722Z",
+    "timestamp": "2025-02-23T18:09:15.551Z",
     "message": "Post is not valid: date is not valid.",
-    "counter": 19
+    "counter": 20
   }
 }
