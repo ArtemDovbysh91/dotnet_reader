@@ -17,7 +17,7 @@ export class NetflixScraper extends RssFeedScraper {
 
   protected override fetchPosts(): AsyncGenerator<Post> {
     return this
-      .fromRssFeed(this.rss, {
+      .fromRssFeed('https://andrewlock.net' + '/rss.xml', {
         customFields: {
           item: [
             ['content:encoded', 'content:encoded'],
@@ -61,7 +61,7 @@ export class NetflixScraper extends RssFeedScraper {
               href: 'https://netflixtechblog.com/introducing-impressions-at-netflix-e2b67c88c9fb',
             },
           ],
-          tags: reader.tags,
+          // tags: reader.tags,
         }
 
         return post;
