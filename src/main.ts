@@ -4,9 +4,9 @@ import { AndrewLockScraper } from './scrapers/AndrewLockScraper';
 import { CodeMazeScraper } from './scrapers/CodeMazeScraper';
 import { CodeOpinionScraper } from './scrapers/CodeOpinionScraper';
 import { DevBlogsScraper } from './scrapers/DevBlogsScraper';
-import { DotNetCoreTutorialsScraper } from './scrapers/DotNetCoreTutorialsScraper';
+// import { DotNetCoreTutorialsScraper } from './scrapers/DotNetCoreTutorialsScraper';
 // import { NetflixScraper } from './scrapers/NetflixScraper';
-// import { SpotifyScraper } from './scrapers/SpotifyScraper';
+import { SpotifyScraper } from './scrapers/SpotifyScraper';
 import { EnterpriseCraftsmanshipScraper } from './scrapers/EnterpriseCraftsmanshipScraper';
 import { HaackedScraper } from './scrapers/HaackedScraper';
 import { HabrScraper } from './scrapers/HabrScraper';
@@ -21,7 +21,7 @@ import { TheMorningBrewScraper } from './scrapers/TheMorningBrewScraper';
 
 const app = new App(knownHosts => [
   // new NetflixScraper(),
-  // new SpotifyScraper(),
+  new SpotifyScraper(),
   new AndrewLockScraper(),
   new CodeMazeScraper(knownHosts),
   new CodeOpinionScraper(),
@@ -31,7 +31,7 @@ const app = new App(knownHosts => [
   new DevBlogsScraper('typescript'),
   new DevBlogsScraper('visualstudio'),
   new DevBlogsScraper('commandline'),
-  new DotNetCoreTutorialsScraper(),
+  // new DotNetCoreTutorialsScraper(),
   new EnterpriseCraftsmanshipScraper(),
   new HaackedScraper(),
   new HabrScraper('net'),
