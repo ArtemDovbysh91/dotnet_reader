@@ -54,7 +54,7 @@ class SpotifyScrapeReader {
   static selector = '.post';
 
   readonly link = this.article.find('a');
-  readonly title = this.link.text();
+  readonly title = this.link.text().trim();
   readonly href = this.link.attr('href') ?? '';
 
   getDefaultImage(): string | undefined {

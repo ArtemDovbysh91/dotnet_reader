@@ -25,25 +25,44 @@ export class NetflixScraper extends RssFeedScraper {
           ],
         },
       })
-      .fetchPosts(NetflixFetchReader, reader => {
+      // .fetchPosts(NetflixFetchReader, reader => {
+        // const post: Post = {
+        //   image: undefined,
+        //   title: reader.title,
+        //   href: reader.href,
+        //   categories: [
+        //     this.NetflixTechBlog,
+        //   ],
+        //   author: this.author,
+        //   date: moment(reader.date),
+        //   description: reader.getDescription(),
+        //   links: [
+        //     {
+        //       title: 'Read more',
+        //       href: reader.href,
+        //     },
+        //   ],
+        //   tags: reader.tags,
+        // };
+        .fetchPosts(NetflixFetchReader, reader => {
         const post: Post = {
-          image: undefined,
-          title: reader.title,
-          href: reader.href,
+          image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/0*4NRQp10pg9KK_GKU',
+          title: 'Introducing Impressions at Netflix',
+          href: 'https://netflixtechblog.com/introducing-impressions-at-netflix-e2b67c88c9fb',
           categories: [
             this.NetflixTechBlog,
           ],
           author: this.author,
-          date: moment(reader.date),
-          description: reader.getDescription(),
+          date: moment('Feb 15, 2025'),
+          description: ['Part 1: Creating the Source of Truth for Impressions'],
           links: [
             {
               title: 'Read more',
-              href: reader.href,
+              href: 'https://netflixtechblog.com/introducing-impressions-at-netflix-e2b67c88c9fb',
             },
           ],
           tags: reader.tags,
-        };
+        }
 
         return post;
       });
