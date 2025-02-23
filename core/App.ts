@@ -66,6 +66,7 @@ export class App {
       commitMessage += ': ' + scraperNames.join(', ');
     }
 
+    core.info(`Setting commit message...`);
     core.setOutput('COMMIT_MESSAGE', commitMessage);
   }
 }

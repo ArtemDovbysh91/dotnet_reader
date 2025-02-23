@@ -94,6 +94,7 @@ export class AppRunner {
           }
         }
         finally {
+          core.info(`Finalizing the '${scraper.name}' scraper...`);
           if (storage.save()) {
             this.lastUpdates.set(scraper.name);
             updatedScraperNames.push(scraper.name);
@@ -102,6 +103,7 @@ export class AppRunner {
       });
     }
 
+    core.info(`All scrapers have been processed.`);
     return updatedScraperNames;
   }
 }
