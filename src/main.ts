@@ -20,6 +20,8 @@ import { StevenGieselScraper } from './scrapers/StevenGieselScraper';
 import { TheMorningBrewScraper } from './scrapers/TheMorningBrewScraper';
 
 const app = new App(knownHosts => [
+  new NetflixScraper(),
+  new SpotifyScraper(),
   new AndrewLockScraper(),
   new CodeMazeScraper(knownHosts),
   new CodeOpinionScraper(),
@@ -44,9 +46,7 @@ const app = new App(knownHosts => [
   new MichaelsCodingSpotScraper(),
   new RadioDotNetScraper(),
   new StevenGieselScraper(),
-  new TheMorningBrewScraper(knownHosts),
-  new NetflixScraper(),
-  new SpotifyScraper()
+  new TheMorningBrewScraper(knownHosts)
 ]);
 
 void app.run();
