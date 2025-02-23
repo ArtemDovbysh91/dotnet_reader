@@ -43,6 +43,7 @@ export class App {
       const updatedScraperNames = await runner.run();
 
       this.setCommitMessage(updatedScraperNames);
+      core.info(`App finished successfully.`);
     }
     catch (error: unknown) {
       core.setFailed(error as Error);
@@ -66,7 +67,7 @@ export class App {
       commitMessage += ': ' + scraperNames.join(', ');
     }
 
-    core.info(`Setting commit message...`);
+    core.info(`Setting commit message '${commitMessage}'...`);
     core.setOutput('COMMIT_MESSAGE', commitMessage);
   }
 }
