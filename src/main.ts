@@ -6,6 +6,7 @@ import { CodeOpinionScraper } from './scrapers/CodeOpinionScraper';
 import { DevBlogsScraper } from './scrapers/DevBlogsScraper';
 import { DotNetCoreTutorialsScraper } from './scrapers/DotNetCoreTutorialsScraper';
 import { NetflixScraper } from './scrapers/engineering/NetflixScraper';
+import { SpotifyScraper } from './scrapers/engineering/Spotify';
 import { EnterpriseCraftsmanshipScraper } from './scrapers/EnterpriseCraftsmanshipScraper';
 import { HaackedScraper } from './scrapers/HaackedScraper';
 import { HabrScraper } from './scrapers/HabrScraper';
@@ -45,6 +46,7 @@ const app = new App(knownHosts => [
   new StevenGieselScraper(),
   new TheMorningBrewScraper(knownHosts),
   new NetflixScraper(),
+  new SpotifyScraper()
 ]);
 
 void app.run();
