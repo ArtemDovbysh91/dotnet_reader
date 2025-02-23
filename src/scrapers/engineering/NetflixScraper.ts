@@ -1,8 +1,8 @@
 import moment from 'moment';
 import RssParser from 'rss-parser';
 
-import { Link, Post } from '../../core/models';
-import { RssFeedScraper } from '../../core/scrapers';
+import { Link, Post } from '../../../core/models';
+import { RssFeedScraper } from '../../../core/scrapers';
 
 export class NetflixScraper extends RssFeedScraper {
   readonly name = 'Netflix TechBlog';
@@ -17,7 +17,7 @@ export class NetflixScraper extends RssFeedScraper {
 
   protected override fetchPosts(): AsyncGenerator<Post> {
     return this
-      .fromRssFeed('https://medium.com/feed/@netflixtechblog/', {
+      .fromRssFeed(this.rss, {
         customFields: {
           item: [
             ['content:encoded', 'content:encoded'],
@@ -25,44 +25,25 @@ export class NetflixScraper extends RssFeedScraper {
           ],
         },
       })
-      // .fetchPosts(NetflixFetchReader, reader => {
-        // const post: Post = {
-        //   image: undefined,
-        //   title: reader.title,
-        //   href: reader.href,
-        //   categories: [
-        //     this.NetflixTechBlog,
-        //   ],
-        //   author: this.author,
-        //   date: moment(reader.date),
-        //   description: reader.getDescription(),
-        //   links: [
-        //     {
-        //       title: 'Read more',
-        //       href: reader.href,
-        //     },
-        //   ],
-        //   tags: reader.tags,
-        // };
-        .fetchPosts(NetflixFetchReader, reader => {
+      .fetchPosts(NetflixFetchReader, reader => {
         const post: Post = {
-          image: 'https://miro.medium.com/v2/resize:fit:1100/format:webp/0*4NRQp10pg9KK_GKU',
-          title: 'Introducing Impressions at Netflix',
-          href: 'https://netflixtechblog.com/introducing-impressions-at-netflix-e2b67c88c9fb',
+          image: undefined,
+          title: reader.title,
+          href: reader.href,
           categories: [
             this.NetflixTechBlog,
           ],
           author: this.author,
-          date: moment('Feb 15, 2025'),
-          description: ['Part 1: Creating the Source of Truth for Impressions'],
+          date: moment(reader.date),
+          description: reader.getDescription(),
           links: [
             {
               title: 'Read more',
-              href: 'https://netflixtechblog.com/introducing-impressions-at-netflix-e2b67c88c9fb',
+              href: reader.href,
             },
           ],
-          // tags: reader.tags,
-        }
+          tags: reader.tags,
+        };
 
         return post;
       });

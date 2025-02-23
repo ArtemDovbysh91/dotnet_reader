@@ -1,8 +1,8 @@
 import * as cheerio from 'cheerio';
 import moment from 'moment';
 
-import { Link, Post } from '../../core/models';
-import { HtmlPageScraper } from '../../core/scrapers';
+import { Link, Post } from '../../../core/models';
+import { HtmlPageScraper } from '../../../core/scrapers';
 
 export class SpotifyScraper extends HtmlPageScraper {
   constructor() {
@@ -92,16 +92,6 @@ class SpotifyScrapeReader {
   }
 
   getDescription(): string[] {
-    let description = this.article.find('h2').text().trim();
-
-    if (description.length > 200) {
-      description = description.substring(0, 200) + '...';
-    }
-    
-    return [description];
-  }
-
-  getHref(): string[] {
     let description = this.article.find('h2').text().trim();
 
     if (description.length > 200) {

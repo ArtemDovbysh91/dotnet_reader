@@ -17,7 +17,11 @@ export class HtmlPageHelper {
   ): AsyncGenerator<Post> {
     core.info(`Parsing html page by url ${this.url}...`);
 
-    const response = await axios.get(this.url);
+    const response = await axios.get(this.url, {
+      headers: {
+        "Accept": "text/html"
+      }
+    });
     const $ = cheerio.load(response.data as string);
     const elements = $<cheerio.Element, string>(readerType.selector);
 

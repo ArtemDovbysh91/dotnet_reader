@@ -5,8 +5,9 @@ import { CodeMazeScraper } from './scrapers/CodeMazeScraper';
 import { CodeOpinionScraper } from './scrapers/CodeOpinionScraper';
 import { DevBlogsScraper } from './scrapers/DevBlogsScraper';
 // import { DotNetCoreTutorialsScraper } from './scrapers/DotNetCoreTutorialsScraper';
-import { NetflixScraper } from './scrapers/NetflixScraper';
-import { SpotifyScraper } from './scrapers/SpotifyScraper';
+// import { NetflixScraper } from './scrapers/NetflixScraper';
+import { SpotifyScraper } from './scrapers/engineering/SpotifyScraper';
+import { UberScraper } from './scrapers/engineering/UberScraper';
 import { EnterpriseCraftsmanshipScraper } from './scrapers/EnterpriseCraftsmanshipScraper';
 import { HaackedScraper } from './scrapers/HaackedScraper';
 import { HabrScraper } from './scrapers/HabrScraper';
@@ -20,8 +21,9 @@ import { StevenGieselScraper } from './scrapers/StevenGieselScraper';
 import { TheMorningBrewScraper } from './scrapers/TheMorningBrewScraper';
 
 const app = new App(knownHosts => [
-  new NetflixScraper(),
+  // new NetflixScraper(),
   new SpotifyScraper(),
+  new UberScraper(),
   new AndrewLockScraper(),
   new CodeMazeScraper(knownHosts),
   new CodeOpinionScraper(),
