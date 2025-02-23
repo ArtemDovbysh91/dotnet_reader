@@ -17,7 +17,7 @@ export class NetflixScraper extends RssFeedScraper {
 
   protected override fetchPosts(): AsyncGenerator<Post> {
     return this
-      .fromRssFeed('https://andrewlock.net' + '/rss.xml', {
+      .fromRssFeed('https://medium.com/feed/@netflixtechblog/', {
         customFields: {
           item: [
             ['content:encoded', 'content:encoded'],
