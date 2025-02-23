@@ -1,22 +1,22 @@
 {
   "DotNetCoreTutorials": {
-    "timestamp": "2024-12-29T21:55:43.820Z",
+    "timestamp": "2025-02-23T11:37:24.746Z",
     "message": "certificate has expired",
-    "counter": 12
+    "counter": 13
   },
   "JetBrains / .NET Annotated": {
-    "timestamp": "2025-02-13T02:05:00.042Z",
+    "timestamp": "2025-02-23T11:37:35.705Z",
     "message": "Request failed with status code 404",
-    "counter": 11
+    "counter": 12
   },
   "RadioDotNet": {
-    "timestamp": "2024-12-29T21:56:14.351Z",
-    "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
-    "counter": 12
+    "timestamp": "2025-02-23T11:37:36.294Z",
+    "message": "Failed to parse html page by url https://podcasts.apple.com/us/podcast/radiodotnet/id1484348948. No posts found.",
+    "counter": 13
   },
   "StevenGiesel": {
-    "timestamp": "2024-12-29T21:56:14.883Z",
+    "timestamp": "2025-02-23T11:37:36.879Z",
     "message": "Post is not valid: date is not valid.",
-    "counter": 12
+    "counter": 13
   }
 }
