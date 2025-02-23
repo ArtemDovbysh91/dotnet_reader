@@ -1,8 +1,8 @@
 import moment from 'moment';
 import RssParser from 'rss-parser';
 
-import { Link, Post } from '../../../core/models';
-import { RssFeedScraper } from '../../../core/scrapers';
+import { Link, Post } from '../../core/models';
+import { RssFeedScraper } from '../../core/scrapers';
 
 export class NetflixScraper extends RssFeedScraper {
   readonly name = 'Netflix TechBlog';

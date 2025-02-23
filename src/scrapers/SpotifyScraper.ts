@@ -1,8 +1,8 @@
 import * as cheerio from 'cheerio';
 import moment from 'moment';
 
-import { Link, Post } from '../../../core/models';
-import { HtmlPageScraper } from '../../../core/scrapers';
+import { Link, Post } from '../../core/models';
+import { HtmlPageScraper } from '../../core/scrapers';
 
 export class SpotifyScraper extends HtmlPageScraper {
   constructor() {
