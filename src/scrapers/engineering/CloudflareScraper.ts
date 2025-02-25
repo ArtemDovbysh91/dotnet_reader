@@ -29,7 +29,7 @@ export class CloudflareScraper extends HtmlPageScraper {
           categories: [
             this.Cloudflare
           ],
-          date: moment(reader.getDate(), 'LL', 'en'),
+          date: moment(reader.getDate()),
           links: [
             {
               title: 'Read more',
