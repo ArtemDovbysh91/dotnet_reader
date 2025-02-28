@@ -1,5 +1,6 @@
 https://blog.cloudflare.com/build-ai-agents-on-cloudflare/
 https://blog.cloudflare.com/cisa-pledge-commitment-reducing-vulnerability/
+https://blog.cloudflare.com/cloudflare-2024-transparency-reports-now-live-with-new-data-and-a-new-format/
 https://blog.cloudflare.com/cloudflare-cbpr-a-global-privacy-first/
 https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/
 https://blog.cloudflare.com/cloudflare-thwarts-over-47-million-cyberthreats-against-jewish-and-holocaust/
