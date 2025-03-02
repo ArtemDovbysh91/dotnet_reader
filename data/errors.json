@@ -9,16 +9,6 @@
     "message": "Request failed with status code 404",
     "counter": 25
   },
-  "JetBrains / How-To's": {
-    "timestamp": "2025-03-01T22:44:40.007Z",
-    "message": "Request failed with status code 403",
-    "counter": 1
-  },
-  "JetBrains / Releases": {
-    "timestamp": "2025-03-01T22:44:40.012Z",
-    "message": "Request failed with status code 403",
-    "counter": 1
-  },
   "RadioDotNet": {
     "timestamp": "2025-02-25T21:53:15.613Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
