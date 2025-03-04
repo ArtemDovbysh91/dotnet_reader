@@ -14,6 +14,11 @@
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
     "counter": 26
   },
+  "Spotify": {
+    "timestamp": "2025-03-04T13:03:31.879Z",
+    "message": "Request failed with status code 403",
+    "counter": 1
+  },
   "StevenGiesel": {
     "timestamp": "2025-02-25T21:53:16.223Z",
     "message": "Post is not valid: date is not valid.",
