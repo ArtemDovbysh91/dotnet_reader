@@ -1,1 +1,2 @@
 https://blog.cloudflare.com/banish-bots-from-your-waiting-room-and-improve-wait-times-for-real-users/
+https://blog.cloudflare.com/media-transformations-for-video-open-beta/
