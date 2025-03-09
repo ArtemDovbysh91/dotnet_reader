@@ -1,1 +1,2 @@
 https://www.uber.com/en-SE/blog/adopting-arm-at-scale-bootstrapping-infrastructure/
+https://www.uber.com/en-SE/blog/adopting-arm-at-scale-transitioning-to-a-multi-architecture-environment/

@@ -1,15 +1,15 @@
 {
   "AndrewLock": {
-    "timestamp": "2025-02-25T13:03:08.397Z"
+    "timestamp": "2025-03-04T10:47:03.062Z"
   },
   "CodeMaze": {
-    "timestamp": "2025-02-21T08:46:54.329Z"
+    "timestamp": "2025-02-26T08:48:43.272Z"
   },
   "CodeOpinion": {
-    "timestamp": "2025-02-25T20:44:37.818Z"
+    "timestamp": "2025-03-04T22:44:32.469Z"
   },
   "DevBlogs / .NET Blog": {
-    "timestamp": "2025-02-25T20:44:43.024Z"
+    "timestamp": "2025-03-06T18:48:49.974Z"
   },
   "DevBlogs / OData": {
     "timestamp": "2024-08-30T10:49:43.185Z"
@@ -18,13 +18,13 @@
     "timestamp": "2024-12-28T14:25:10.714Z"
   },
   "DevBlogs / TypeScript": {
-    "timestamp": "2025-02-13T22:44:35.229Z"
+    "timestamp": "2025-02-28T20:44:49.498Z"
   },
   "DevBlogs / Visual Studio Blog": {
-    "timestamp": "2025-02-25T02:07:43.734Z"
+    "timestamp": "2025-03-05T16:54:02.864Z"
   },
   "DevBlogs / Windows Command Line": {
-    "timestamp": "2025-02-06T02:04:12.356Z"
+    "timestamp": "2025-02-26T18:48:36.514Z"
   },
   "DotNetCoreTutorials": {
     "timestamp": "2023-06-19T10:46:32.788Z"
@@ -36,10 +36,10 @@
     "timestamp": "2025-02-25T16:49:58.768Z"
   },
   "Habr / .NET": {
-    "timestamp": "2025-02-17T16:46:25.196Z"
+    "timestamp": "2025-03-09T16:44:40.838Z"
   },
   "Habr / C#": {
-    "timestamp": "2025-02-19T10:45:10.319Z"
+    "timestamp": "2025-03-06T14:45:43.003Z"
   },
   "Habr / F#": {
     "timestamp": "2024-11-09T22:50:00.895Z"
@@ -51,16 +51,16 @@
     "timestamp": "2025-01-05T10:44:45.913Z"
   },
   "JetBrains / Releases": {
-    "timestamp": "2025-02-24T18:49:01.229Z"
+    "timestamp": "2025-02-28T10:45:23.051Z"
   },
   "KhalidAbuhakmeh": {
-    "timestamp": "2025-02-25T16:50:05.806Z"
+    "timestamp": "2025-03-04T16:50:29.474Z"
   },
   "Maoni": {
     "timestamp": "2023-04-12T05:14:50.617Z"
   },
   "Meziantou": {
-    "timestamp": "2025-02-24T13:03:42.019Z"
+    "timestamp": "2025-03-03T13:03:58.297Z"
   },
   "MichaelsCodingSpot": {
     "timestamp": "2024-11-20T14:49:49.210Z"
@@ -81,9 +81,9 @@
     "timestamp": "2024-08-02T06:49:50.221Z"
   },
   "Uber": {
-    "timestamp": "2025-02-23T20:16:14.963Z"
+    "timestamp": "2025-02-27T14:45:20.695Z"
   },
   "cloudflare": {
-    "timestamp": "2025-02-25T14:45:42.714Z"
+    "timestamp": "2025-03-07T14:44:59.062Z"
   }
 }
