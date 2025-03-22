@@ -1,22 +1,27 @@
 {
+  "DevBlogs / TypeScript": {
+    "timestamp": "2025-03-22T09:03:38.374Z",
+    "message": "400: Bad Request: failed to get HTTP URL content",
+    "counter": 1
+  },
   "DotNetCoreTutorials": {
     "timestamp": "2025-02-23T13:30:18.331Z",
     "message": "certificate has expired",
     "counter": 17
   },
   "JetBrains / .NET Annotated": {
-    "timestamp": "2025-02-25T21:53:12.437Z",
+    "timestamp": "2025-03-22T09:04:05.049Z",
     "message": "Request failed with status code 404",
-    "counter": 25
+    "counter": 26
   },
   "RadioDotNet": {
-    "timestamp": "2025-02-25T21:53:15.613Z",
+    "timestamp": "2025-03-22T09:04:11.330Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
-    "counter": 26
+    "counter": 27
   },
   "StevenGiesel": {
-    "timestamp": "2025-02-25T21:53:16.223Z",
-    "message": "Post is not valid: date is not valid.",
-    "counter": 26
+    "timestamp": "2025-03-22T09:04:11.765Z",
+    "message": "Post is not valid: title is empty, date is not valid.",
+    "counter": 27
   }
 }

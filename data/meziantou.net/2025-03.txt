@@ -1,1 +1,2 @@
 https://www.meziantou.net/listen-to-clipboard-changes-in-a-wpf-application.htm
+https://www.meziantou.net/static-lambda-functions-are-not-static-methods.htm
