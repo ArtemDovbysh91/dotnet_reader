@@ -8,5 +8,6 @@ https://blog.cloudflare.com/irap-protected-assessment/
 https://blog.cloudflare.com/lattice-crypto-primer/
 https://blog.cloudflare.com/media-transformations-for-video-open-beta/
 https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/
+https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/
 https://blog.cloudflare.com/scan-cloud-dlp-with-casb/
 https://blog.cloudflare.com/security-week-2025-wrap-up/
