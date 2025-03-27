@@ -25,8 +25,8 @@
     "counter": 27
   },
   "Uber": {
-    "timestamp": "2025-03-25T22:45:04.694Z",
+    "timestamp": "2025-03-27T02:12:33.414Z",
     "message": "Failed to parse html page by url https://www.uber.com/en-US/blog/engineering/. No posts found.",
-    "counter": 2
+    "counter": 3
   }
 }
