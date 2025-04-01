@@ -1,4 +1,9 @@
 {
+  "DevBlogs / The NuGet Blog": {
+    "timestamp": "2025-04-01T02:26:19.662Z",
+    "message": "Failed to parse html page by url https://devblogs.microsoft.com/nuget/. No posts found.",
+    "counter": 1
+  },
   "DevBlogs / TypeScript": {
     "timestamp": "2025-03-31T22:45:17.875Z",
     "message": "400: Bad Request: failed to get HTTP URL content",
