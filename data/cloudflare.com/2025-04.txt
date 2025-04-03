@@ -1,2 +1,3 @@
+https://blog.cloudflare.com/improve-your-media-pipelines-with-the-images-binding-for-cloudflare-workers/
 https://blog.cloudflare.com/instant-purge-for-all/
 https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/
