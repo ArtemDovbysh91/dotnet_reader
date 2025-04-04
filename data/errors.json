@@ -1,8 +1,8 @@
 {
   "DevBlogs / The NuGet Blog": {
-    "timestamp": "2025-04-03T04:50:11.546Z",
+    "timestamp": "2025-04-04T06:50:38.035Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/nuget/. No posts found.",
-    "counter": 4
+    "counter": 5
   },
   "DevBlogs / TypeScript": {
     "timestamp": "2025-03-31T22:45:17.875Z",
@@ -28,10 +28,5 @@
     "timestamp": "2025-03-22T09:04:11.765Z",
     "message": "Post is not valid: title is empty, date is not valid.",
     "counter": 27
-  },
-  "Uber": {
-    "timestamp": "2025-04-03T04:50:09.244Z",
-    "message": "Failed to parse html page by url https://www.uber.com/en-US/blog/engineering/. No posts found.",
-    "counter": 10
   }
 }
