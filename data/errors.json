@@ -1,8 +1,8 @@
 {
   "DevBlogs / The NuGet Blog": {
-    "timestamp": "2025-04-05T08:46:40.788Z",
+    "timestamp": "2025-04-06T08:47:42.476Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/nuget/. No posts found.",
-    "counter": 6
+    "counter": 7
   },
   "DevBlogs / TypeScript": {
     "timestamp": "2025-03-31T22:45:17.875Z",
