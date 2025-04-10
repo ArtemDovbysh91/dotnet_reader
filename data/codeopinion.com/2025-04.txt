@@ -1,1 +1,2 @@
 https://codeopinion.com/commands-or-events-which-one-for-workflow/
+https://codeopinion.com/id-rather-read-50-lines-than-extract-method-refactoring/
