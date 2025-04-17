@@ -28,5 +28,10 @@
     "timestamp": "2025-03-22T09:04:11.765Z",
     "message": "Post is not valid: title is empty, date is not valid.",
     "counter": 27
+  },
+  "Uber": {
+    "timestamp": "2025-04-17T14:46:26.231Z",
+    "message": "Post is not valid: description at index 0 is empty.",
+    "counter": 1
   }
 }
