@@ -1,0 +1,1 @@
+https://devblogs.microsoft.com/odata/asp-net-core-odata-web-api-template-preview-release/
