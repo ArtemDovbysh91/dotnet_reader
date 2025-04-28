@@ -14,6 +14,7 @@ https://blog.cloudflare.com/developer-week-2025-wrap-up/
 https://blog.cloudflare.com/expanding-cloudflares-startup-program/
 https://blog.cloudflare.com/full-stack-development-on-cloudflare-workers/
 https://blog.cloudflare.com/how-hyperdrive-speeds-up-database-access/
+https://blog.cloudflare.com/how-power-outage-in-portugal-spain-impacted-internet/
 https://blog.cloudflare.com/improve-your-media-pipelines-with-the-images-binding-for-cloudflare-workers/
 https://blog.cloudflare.com/instant-purge-for-all/
 https://blog.cloudflare.com/introducing-autorag-on-cloudflare/
