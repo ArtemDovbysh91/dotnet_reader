@@ -1,2 +1,4 @@
 https://engineering.fb.com/2025/04/02/open-source/meta-open-source-by-the-numbers/
 https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/
+https://engineering.fb.com/2025/04/29/ai-research/autopatchbench-benchmark-ai-powered-security-fixes/
+https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/
