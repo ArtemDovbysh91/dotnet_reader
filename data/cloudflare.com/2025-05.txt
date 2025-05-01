@@ -1,2 +1,3 @@
 https://blog.cloudflare.com/mcp-demo-day/
+https://blog.cloudflare.com/thirteen-new-mcp-servers-from-cloudflare/
 https://blog.cloudflare.com/twelve-new-mcp-servers-from-cloudflare/
