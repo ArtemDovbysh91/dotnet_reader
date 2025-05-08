@@ -1,2 +1,3 @@
 https://engineering.fb.com/2025/05/01/connectivity/taking-the-plunge-the-engineering-journey-of-building-a-subsea-cable/
 https://engineering.fb.com/2025/05/05/developer-tools/enhancing-the-python-ecosystem-with-type-checking-and-free-threading/
+https://engineering.fb.com/2025/05/08/data-infrastructure/accelerating-gpu-indexes-in-faiss-with-nvidia-cuvs/
