@@ -4,3 +4,4 @@ https://engineering.fb.com/2025/05/08/data-infrastructure/accelerating-gpu-index
 https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/
 https://engineering.fb.com/2025/05/15/developer-tools/open-sourcing-pyrefly-a-faster-python-type-checker-written-in-rust/
 https://engineering.fb.com/2025/05/20/web/metas-full-stack-hhvm-optimizations-for-genai/
+https://engineering.fb.com/2025/05/21/production-engineering/journey-to-1000-models-scaling-instagrams-recommendation-system/
