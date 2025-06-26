@@ -8,4 +8,5 @@ https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monu
 https://blog.cloudflare.com/logexplorer-ga/
 https://blog.cloudflare.com/nist-sp-1300-85/
 https://blog.cloudflare.com/orange-me2eets-we-made-an-end-to-end-encrypted-video-calling-app-and-it-was/
+https://blog.cloudflare.com/russian-internet-users-are-unable-to-access-the-open-internet/
 https://blog.cloudflare.com/we-shipped-finalizationregistry-in-workers-why-you-should-never-use-it/

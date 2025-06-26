@@ -1,3 +1,4 @@
+https://codeopinion.com/5-mistakes-that-make-your-code-unmaintainable/
 https://codeopinion.com/api-caching-done-right/
 https://codeopinion.com/database-coupling-how-to-fix-a-spaghetti-code-system/
 https://codeopinion.com/you-dont-need-microservices-for-serverless/
