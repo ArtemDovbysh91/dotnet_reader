@@ -1,3 +1,6 @@
+https://habr.com/ru/articles/432048/
+https://habr.com/ru/articles/440914/
+https://habr.com/ru/articles/458730/
 https://habr.com/ru/articles/902040/
 https://habr.com/ru/articles/916970/
 https://habr.com/ru/articles/917378/
@@ -8,6 +11,8 @@ https://habr.com/ru/articles/922162/
 https://habr.com/ru/articles/922424/
 https://habr.com/ru/articles/922672/
 https://habr.com/ru/companies/first/articles/850980/
+https://habr.com/ru/companies/microsoft/articles/437666/
+https://habr.com/ru/companies/microsoft/articles/439678/
 https://habr.com/ru/companies/otus/articles/915662/
 https://habr.com/ru/companies/otus/articles/920288/
 https://habr.com/ru/companies/skbkontur/articles/914868/
