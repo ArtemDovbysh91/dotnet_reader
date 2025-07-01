@@ -1,0 +1,6 @@
+https://blog.cloudflare.com/ai-search-crawl-refer-ratio-on-radar/
+https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/
+https://blog.cloudflare.com/control-content-use-for-ai-training/
+https://blog.cloudflare.com/from-googlebot-to-gptbot-whos-crawling-your-site-in-2025/
+https://blog.cloudflare.com/introducing-pay-per-crawl/
+https://blog.cloudflare.com/verified-bots-with-cryptography/
