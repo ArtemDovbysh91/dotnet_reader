@@ -1,5 +1,6 @@
 https://blog.cloudflare.com/ai-search-crawl-refer-ratio-on-radar/
 https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/
+https://blog.cloudflare.com/cloudflare-protects-against-critical-sharepoint-vulnerability-cve-2025-53770/
 https://blog.cloudflare.com/cloudflare-sase-gartner-magic-quadrant-2025/
 https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/
 https://blog.cloudflare.com/control-content-use-for-ai-training/
