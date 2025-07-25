@@ -1,1 +1,2 @@
+https://codeopinion.com/distributed-systems-mistakes-nobody-warns-you-about-consistency/
 https://codeopinion.com/net-channels-as-a-in-memory-message-bus-beware/
