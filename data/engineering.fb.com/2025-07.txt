@@ -2,3 +2,4 @@ https://engineering.fb.com/2025/07/01/developer-tools/an-inside-look-at-metas-tr
 https://engineering.fb.com/2025/07/16/data-center-engineering/ai-make-lower-carbon-faster-curing-concrete/
 https://engineering.fb.com/2025/07/22/data-infrastructure/how-meta-keeps-its-ai-hardware-reliable/
 https://engineering.fb.com/2025/07/23/security/policy-zones-meta-purpose-limitation-batch-processing-systems/
+https://engineering.fb.com/2025/07/28/android/executorch-on-device-ml-meta-family-of-apps/
