@@ -1,4 +1,9 @@
 {
+  "DevBlogs / .NET Blog": {
+    "timestamp": "2025-07-29T18:59:29.066Z",
+    "message": "Failed to parse html page by url https://devblogs.microsoft.com/dotnet/announcing-aspire-9-4/. More than one post found.",
+    "counter": 1
+  },
   "DevBlogs / The NuGet Blog": {
     "timestamp": "2025-04-10T10:31:02.133Z",
     "message": "Failed to parse html page by url https://devblogs.microsoft.com/nuget/. No posts found.",
