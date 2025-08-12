@@ -1,3 +1,4 @@
+https://blog.cloudflare.com/aligning-our-prices-and-packaging-with-the-problems-we-help-customers-solve/
 https://blog.cloudflare.com/openai-gpt-oss-on-workers-ai/
 https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/
 https://blog.cloudflare.com/rearchitecting-workers-kv-for-redundancy/
