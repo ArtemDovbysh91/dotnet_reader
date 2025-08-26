@@ -2,3 +2,4 @@ https://engineering.fb.com/2025/08/04/virtual-reality/building-a-human-computer-
 https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/
 https://engineering.fb.com/2025/08/11/security/federation-platform-privacy-waves-meta-distributes-compliance-tasks/
 https://engineering.fb.com/2025/08/13/data-infrastructure/agentic-solution-for-warehouse-data-access/
+https://engineering.fb.com/2025/08/26/open-source/enabling-kotlin-incremental-compilation-on-buck2/
