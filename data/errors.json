@@ -19,20 +19,25 @@
     "message": "certificate has expired",
     "counter": 17
   },
+  "Habr / .NET": {
+    "timestamp": "2025-08-31T08:46:54.471Z",
+    "message": "Request failed with status code 500",
+    "counter": 1
+  },
+  "Habr / C#": {
+    "timestamp": "2025-08-31T08:47:00.308Z",
+    "message": "Request failed with status code 500",
+    "counter": 1
+  },
+  "Habr / F#": {
+    "timestamp": "2025-08-31T08:47:05.643Z",
+    "message": "Request failed with status code 500",
+    "counter": 1
+  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2025-03-22T09:04:05.049Z",
     "message": "Request failed with status code 404",
     "counter": 26
-  },
-  "JetBrains / How-To's": {
-    "timestamp": "2025-08-31T06:49:23.316Z",
-    "message": "Request failed with status code 403",
-    "counter": 1
-  },
-  "JetBrains / Releases": {
-    "timestamp": "2025-08-31T06:49:23.334Z",
-    "message": "Request failed with status code 403",
-    "counter": 1
   },
   "RadioDotNet": {
     "timestamp": "2025-03-22T09:04:11.330Z",
