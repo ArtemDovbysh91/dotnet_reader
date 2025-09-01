@@ -1,9 +1,4 @@
 {
-  "AndrewLock": {
-    "timestamp": "2025-09-01T10:48:48.791Z",
-    "message": "Status code 500",
-    "counter": 1
-  },
   "DevBlogs / OData": {
     "timestamp": "2025-08-31T22:44:41.331Z",
     "message": "Post is not valid: description is empty.",
