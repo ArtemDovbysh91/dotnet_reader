@@ -24,11 +24,6 @@
     "message": "Request failed with status code 404",
     "counter": 26
   },
-  "JetBrains / Releases": {
-    "timestamp": "2025-09-20T16:44:44.553Z",
-    "message": "Request failed with status code 502",
-    "counter": 1
-  },
   "RadioDotNet": {
     "timestamp": "2025-03-22T09:04:11.330Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
