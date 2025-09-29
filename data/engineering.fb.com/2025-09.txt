@@ -2,4 +2,5 @@ https://engineering.fb.com/2025/09/02/ml-applications/a-new-ranking-framework-fo
 https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/
 https://engineering.fb.com/2025/09/26/networking-traffic/networking-at-the-heart-of-ai-scale-networking-2025-recap/
 https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/
+https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/
 https://sustainability.atmeta.com/2025-sustainability-report/
