@@ -29,6 +29,7 @@ https://blog.cloudflare.com/network-performance-update-birthday-week-2025/
 https://blog.cloudflare.com/new-hubs-for-startups/
 https://blog.cloudflare.com/new-regional-internet-traffic-and-certificate-transparency-insights-on-radar/
 https://blog.cloudflare.com/nodejs-workers-2025/
+https://blog.cloudflare.com/payload-cms-workers/
 https://blog.cloudflare.com/per-customer-bot-defenses/
 https://blog.cloudflare.com/planetscale-postgres-workers/
 https://blog.cloudflare.com/post-quantum-warp/
