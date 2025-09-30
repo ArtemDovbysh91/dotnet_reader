@@ -24,6 +24,7 @@ https://blog.cloudflare.com/how-cloudflare-uses-the-worlds-greatest-collection-o
 https://blog.cloudflare.com/integrating-crowdstrike-falcon-fusion-soar-with-cloudflares-sase-platform/
 https://blog.cloudflare.com/introducing-observatory-and-smart-shield/
 https://blog.cloudflare.com/monitoring-as-sets-and-why-they-matter/
+https://blog.cloudflare.com/nationwide-internet-shutdown-in-afghanistan/
 https://blog.cloudflare.com/network-performance-update-birthday-week-2025/
 https://blog.cloudflare.com/new-hubs-for-startups/
 https://blog.cloudflare.com/new-regional-internet-traffic-and-certificate-transparency-insights-on-radar/
