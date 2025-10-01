@@ -1,1 +1,0 @@
-https://devblogs.microsoft.com/visualstudio/enhancing-your-visual-studio-authentication-experience/
