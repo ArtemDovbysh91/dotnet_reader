@@ -1,9 +1,4 @@
 {
-  "CodeOpinion": {
-    "timestamp": "2025-10-07T16:50:11.231Z",
-    "message": "Request failed with status code 500",
-    "counter": 2
-  },
   "DevBlogs / OData": {
     "timestamp": "2025-08-31T22:44:41.331Z",
     "message": "Post is not valid: description is empty.",
