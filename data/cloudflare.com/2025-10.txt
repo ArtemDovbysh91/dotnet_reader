@@ -1,2 +1,3 @@
 https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/
 https://blog.cloudflare.com/introducing-react-why-we-built-an-elite-incident-response-team/
+https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/
