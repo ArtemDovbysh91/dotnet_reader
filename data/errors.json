@@ -1,9 +1,4 @@
 {
-  "CodeOpinion": {
-    "timestamp": "2025-10-15T20:56:21.579Z",
-    "message": "connect ETIMEDOUT 52.170.237.51:443",
-    "counter": 2
-  },
   "DevBlogs / OData": {
     "timestamp": "2025-08-31T22:44:41.331Z",
     "message": "Post is not valid: description is empty.",
