@@ -1,1 +1,2 @@
 https://codeopinion.com/crud-sourcing-is-why-your-event-streams-are-bloated/
+https://codeopinion.com/your-api-errors-suck-heres-how-to-fix-them/
