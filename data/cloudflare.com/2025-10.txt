@@ -2,6 +2,7 @@ https://blog.cloudflare.com/a-deep-dive-into-bpf-lpm-trie-performance-and-optimi
 https://blog.cloudflare.com/agent-registry/
 https://blog.cloudflare.com/evolution-of-cloudflare-radar/
 https://blog.cloudflare.com/experience-of-data-at-scale/
+https://blog.cloudflare.com/go-and-enhance-your-calm/
 https://blog.cloudflare.com/how-cloudflares-client-side-security-made-the-npm-supply-chain-attack-a-non/
 https://blog.cloudflare.com/how-does-cloudflares-speed-test-really-work/
 https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/
