@@ -29,6 +29,11 @@
     "message": "Post is not valid: title is empty.",
     "counter": 6
   },
+  "JetBrains / Releases": {
+    "timestamp": "2025-11-03T10:52:57.055Z",
+    "message": "Request failed with status code 504",
+    "counter": 1
+  },
   "RadioDotNet": {
     "timestamp": "2025-03-22T09:04:11.330Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
