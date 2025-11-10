@@ -3,4 +3,5 @@ https://blog.cloudflare.com/better-testing-for-workflows/
 https://blog.cloudflare.com/diy-byoip/
 https://blog.cloudflare.com/extract-audio-from-your-videos-with-cloudflare-stream/
 https://blog.cloudflare.com/fresh-insights-from-old-data-corroborating-reports-of-turkmenistan-ip/
+https://blog.cloudflare.com/python-workflows/
 https://blog.cloudflare.com/workers-vpc-open-beta/
