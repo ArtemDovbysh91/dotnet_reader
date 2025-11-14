@@ -1,2 +1,3 @@
 https://engineering.fb.com/2025/11/04/video-engineering/video-invisible-watermarking-at-scale/
 https://engineering.fb.com/2025/11/10/ml-applications/metas-generative-ads-model-gem-the-central-brain-accelerating-ads-recommendation-ai-innovation/
+https://engineering.fb.com/2025/11/11/web/stylex-a-styling-library-for-css-at-scale/
