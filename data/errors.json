@@ -1,4 +1,14 @@
 {
+  "AndrewLock": {
+    "timestamp": "2025-11-18T13:17:54.735Z",
+    "message": "Status code 500",
+    "counter": 1
+  },
+  "CodeMaze": {
+    "timestamp": "2025-11-18T13:17:56.498Z",
+    "message": "Request failed with status code 500",
+    "counter": 1
+  },
   "DevBlogs / OData": {
     "timestamp": "2025-08-31T22:44:41.331Z",
     "message": "Post is not valid: description is empty.",
@@ -19,6 +29,11 @@
     "message": "certificate has expired",
     "counter": 17
   },
+  "EnterpriseCraftsmanship": {
+    "timestamp": "2025-11-18T13:17:59.271Z",
+    "message": "Request failed with status code 500",
+    "counter": 1
+  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2025-03-22T09:04:05.049Z",
     "message": "Request failed with status code 404",
@@ -28,6 +43,11 @@
     "timestamp": "2025-11-08T04:46:45.736Z",
     "message": "Post is not valid: title is empty.",
     "counter": 11
+  },
+  "Meziantou": {
+    "timestamp": "2025-11-18T13:18:08.864Z",
+    "message": "Request failed with status code 500",
+    "counter": 1
   },
   "RadioDotNet": {
     "timestamp": "2025-03-22T09:04:11.330Z",
