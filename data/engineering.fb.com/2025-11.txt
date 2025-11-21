@@ -4,3 +4,4 @@ https://engineering.fb.com/2025/11/11/web/stylex-a-styling-library-for-css-at-sc
 https://engineering.fb.com/2025/11/14/production-engineering/open-source-is-good-for-the-environment/
 https://engineering.fb.com/2025/11/17/connectivity/core-2africa-system-completion-future-connectivity/
 https://engineering.fb.com/2025/11/17/ios/enhancing-hdr-on-instagram-for-ios-with-dolby-vision/
+https://engineering.fb.com/2025/11/20/security/key-transparency-comes-to-messenger/
