@@ -1,0 +1,1 @@
+https://codeopinion.com/minimal-apis-cqrs-ddd-or-just-use-controllers/
