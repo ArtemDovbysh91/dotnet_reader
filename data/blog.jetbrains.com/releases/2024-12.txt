@@ -1,3 +1,0 @@
-https://blog.jetbrains.com/dotnet/2024/11/13/dotnet-tools-243-release/
-https://blog.jetbrains.com/dotnet/2024/11/13/resharper-2024-3-release/
-https://blog.jetbrains.com/dotnet/2024/11/13/rider-2024-3-release/
