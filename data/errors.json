@@ -1,4 +1,9 @@
 {
+  "DevBlogs / .NET Blog": {
+    "timestamp": "2025-12-30T18:57:02.280Z",
+    "message": "request to https://api.telegram.org/bot5321562541:[REDACTED]/sendPhoto failed, reason: ",
+    "counter": 1
+  },
   "DevBlogs / OData": {
     "timestamp": "2025-08-31T22:44:41.331Z",
     "message": "Post is not valid: description is empty.",
