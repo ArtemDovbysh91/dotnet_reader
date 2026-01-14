@@ -19,21 +19,6 @@
     "message": "certificate has expired",
     "counter": 17
   },
-  "Habr / .NET": {
-    "timestamp": "2026-01-14T10:55:22.258Z",
-    "message": "Request failed with status code 502",
-    "counter": 1
-  },
-  "Habr / C#": {
-    "timestamp": "2026-01-14T10:55:29.145Z",
-    "message": "Request failed with status code 502",
-    "counter": 1
-  },
-  "Habr / F#": {
-    "timestamp": "2026-01-14T10:55:34.060Z",
-    "message": "Request failed with status code 502",
-    "counter": 1
-  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2025-03-22T09:04:05.049Z",
     "message": "Request failed with status code 404",
