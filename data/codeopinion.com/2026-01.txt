@@ -1,1 +1,2 @@
+https://codeopinion.com/context-is-the-bottleneck-in-software-development/
 https://codeopinion.com/why-microservices-debates-miss-the-point/
