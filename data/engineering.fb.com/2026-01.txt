@@ -1,2 +1,3 @@
 https://engineering.fb.com/2026/01/12/web/css-at-scale-with-stylex/
 https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/
+https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/
