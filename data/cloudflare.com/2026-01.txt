@@ -4,6 +4,7 @@ https://blog.cloudflare.com/bgp-route-leak-venezuela/
 https://blog.cloudflare.com/cname-a-record-order-dns-standards/
 https://blog.cloudflare.com/human-native-joins-cloudflare/
 https://blog.cloudflare.com/iran-protests-internet-shutdown/
+https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/
 https://blog.cloudflare.com/q4-2025-internet-disruption-summary/
 https://blog.cloudflare.com/route-leak-incident-january-22-2026/
 https://blog.cloudflare.com/serverless-matrix-homeserver-workers/
