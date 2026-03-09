@@ -6,12 +6,15 @@ https://blog.cloudflare.com/client-dynamic-path-mtu-discovery/
 https://blog.cloudflare.com/cloudflare-one-onboarding-project-helix/
 https://blog.cloudflare.com/cloudflare-threat-intelligence-platform/
 https://blog.cloudflare.com/cloudy-upgrades-for-cloudflare-one/
+https://blog.cloudflare.com/complexity-is-a-choice-sase-migrations-shouldnt-take-years/
 https://blog.cloudflare.com/deepfakes-insider-threats-identity-verification/
 https://blog.cloudflare.com/email-security-phishing-gap-llm/
 https://blog.cloudflare.com/faster-sase-proxy-mode-quic/
 https://blog.cloudflare.com/gateway-authorization-proxy-identity-aware-policies/
 https://blog.cloudflare.com/mandatory-authentication-mfa/
 https://blog.cloudflare.com/modernize-agile-sase/
+https://blog.cloudflare.com/pingora-oss-smuggling-vulnerabilities/
 https://blog.cloudflare.com/programmable-sase/
 https://blog.cloudflare.com/remediation-in-cloudflare-casb/
 https://blog.cloudflare.com/unified-data-security/
+https://blog.cloudflare.com/vulnerability-scanner/
