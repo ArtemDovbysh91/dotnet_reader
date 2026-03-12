@@ -1,4 +1,5 @@
 https://blog.cloudflare.com/2026-threat-report/
+https://blog.cloudflare.com/account-abuse-protection/
 https://blog.cloudflare.com/adaptive-access-user-risk-scoring/
 https://blog.cloudflare.com/ai-security-for-apps-ga/
 https://blog.cloudflare.com/attack-signature-detection/
