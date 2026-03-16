@@ -23,5 +23,6 @@ https://blog.cloudflare.com/programmable-sase/
 https://blog.cloudflare.com/remediation-in-cloudflare-casb/
 https://blog.cloudflare.com/rfc-9457-agent-error-pages/
 https://blog.cloudflare.com/security-overview-dashboard/
+https://blog.cloudflare.com/standing-up-for-the-open-internet/
 https://blog.cloudflare.com/unified-data-security/
 https://blog.cloudflare.com/vulnerability-scanner/
