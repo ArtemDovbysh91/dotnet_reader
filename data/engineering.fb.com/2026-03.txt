@@ -3,3 +3,4 @@ https://engineering.fb.com/2026/03/02/video-engineering/ffmpeg-at-meta-media-pro
 https://engineering.fb.com/2026/03/09/security/how-advanced-browsing-protection-works-in-messenger/
 https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/
 https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/
+https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/
