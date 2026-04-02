@@ -1,8 +1,0 @@
-https://engineering.fb.com/2025/05/01/connectivity/taking-the-plunge-the-engineering-journey-of-building-a-subsea-cable/
-https://engineering.fb.com/2025/05/05/developer-tools/enhancing-the-python-ecosystem-with-type-checking-and-free-threading/
-https://engineering.fb.com/2025/05/08/data-infrastructure/accelerating-gpu-indexes-in-faiss-with-nvidia-cuvs/
-https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/
-https://engineering.fb.com/2025/05/15/developer-tools/open-sourcing-pyrefly-a-faster-python-type-checker-written-in-rust/
-https://engineering.fb.com/2025/05/20/web/metas-full-stack-hhvm-optimizations-for-genai/
-https://engineering.fb.com/2025/05/21/production-engineering/journey-to-1000-models-scaling-instagrams-recommendation-system/
-https://engineering.fb.com/2025/05/22/connectivity/extending-malbec-subsea-cable-southern-brazil/
