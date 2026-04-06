@@ -1,2 +1,3 @@
 https://blog.cloudflare.com/1111-privacy-examination-2026/
 https://blog.cloudflare.com/emdash-wordpress/
+https://blog.cloudflare.com/organizations-beta/
