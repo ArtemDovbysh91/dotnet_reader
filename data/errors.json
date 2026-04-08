@@ -1,9 +1,4 @@
 {
-  "CodeOpinion": {
-    "timestamp": "2026-04-07T23:20:32.170Z",
-    "message": "Hostname/IP does not match certificate's altnames: Host: codeopinion.com. is not in the cert's altnames: DNS:*.ingress-comporellon.ewp.live, DNS:ingress-comporellon.ewp.live",
-    "counter": 2
-  },
   "DevBlogs / OData": {
     "timestamp": "2025-08-31T22:44:41.331Z",
     "message": "Post is not valid: description is empty.",
@@ -23,11 +18,6 @@
     "timestamp": "2025-02-23T13:30:18.331Z",
     "message": "certificate has expired",
     "counter": 17
-  },
-  "Habr / .NET": {
-    "timestamp": "2026-04-08T21:27:53.889Z",
-    "message": "Request failed with status code 504",
-    "counter": 1
   },
   "JetBrains / .NET Annotated": {
     "timestamp": "2025-03-22T09:04:05.049Z",
