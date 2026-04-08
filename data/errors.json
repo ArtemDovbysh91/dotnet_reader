@@ -24,6 +24,11 @@
     "message": "certificate has expired",
     "counter": 17
   },
+  "Habr / .NET": {
+    "timestamp": "2026-04-08T21:27:53.889Z",
+    "message": "Request failed with status code 504",
+    "counter": 1
+  },
   "JetBrains / .NET Annotated": {
     "timestamp": "2025-03-22T09:04:05.049Z",
     "message": "Request failed with status code 404",
