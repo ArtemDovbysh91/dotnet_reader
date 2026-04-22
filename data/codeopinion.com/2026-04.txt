@@ -1,2 +1,3 @@
 https://codeopinion.com/is-event-driven-architecture-overkill-for-most-apps/
+https://codeopinion.com/testing-needs-a-seam-not-an-interface/
 https://codeopinion.com/why-clean-code-is-killing-your-velocity/
