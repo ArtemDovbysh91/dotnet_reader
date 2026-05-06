@@ -1,2 +1,3 @@
 https://blog.cloudflare.com/code-orange-fail-small-complete/
+https://blog.cloudflare.com/de-tld-outage-dnssec/
 https://blog.cloudflare.com/dynamic-workflows/
