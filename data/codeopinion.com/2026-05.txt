@@ -1,0 +1,1 @@
+https://codeopinion.com/just-use-postgres-as-a-queue/
