@@ -1,5 +1,6 @@
 https://blog.cloudflare.com/browser-run-containers/
 https://blog.cloudflare.com/building-for-the-future/
+https://blog.cloudflare.com/casb-anthropic-integration/
 https://blog.cloudflare.com/claude-managed-agents/
 https://blog.cloudflare.com/clickhouse-query-plan-contention/
 https://blog.cloudflare.com/code-orange-fail-small-complete/
