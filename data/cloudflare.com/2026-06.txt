@@ -1,5 +1,6 @@
 https://blog.cloudflare.com/agents-platform-flue-sdk/
 https://blog.cloudflare.com/ai-gateway-spend-limits/
+https://blog.cloudflare.com/celebrating-12-years-of-project-galileo/
 https://blog.cloudflare.com/cloudflare-one-stack/
 https://blog.cloudflare.com/dmarc-management-ga/
 https://blog.cloudflare.com/enforce-first-as-bgp/
