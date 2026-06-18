@@ -1,5 +1,6 @@
 https://blog.cloudflare.com/agents-platform-flue-sdk/
 https://blog.cloudflare.com/ai-gateway-spend-limits/
+https://blog.cloudflare.com/build-your-own-vulnerability-harness/
 https://blog.cloudflare.com/celebrating-12-years-of-project-galileo/
 https://blog.cloudflare.com/cloudflare-one-stack/
 https://blog.cloudflare.com/dmarc-management-ga/
