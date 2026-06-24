@@ -1,3 +1,4 @@
+https://codeopinion.com/event-driven-architecture-mistakes/
 https://codeopinion.com/modular-monolith-boundaries/
 https://codeopinion.com/solving-the-god-object-problem-with-shared-identity/
 https://codeopinion.com/stop-joining-tables-in-your-modular-monolith/
