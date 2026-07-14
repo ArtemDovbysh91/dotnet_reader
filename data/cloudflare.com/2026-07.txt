@@ -2,6 +2,7 @@ https://blog.cloudflare.com/agentic-internet-bot-report/
 https://blog.cloudflare.com/attribution-business-insights/
 https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/
 https://blog.cloudflare.com/content-independence-day-ai-options/
+https://blog.cloudflare.com/dnssec-nta-ede-33/
 https://blog.cloudflare.com/introducing-precursor/
 https://blog.cloudflare.com/making-ai-search-smarter/
 https://blog.cloudflare.com/meerkat-introduction/
