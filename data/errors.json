@@ -1,9 +1,4 @@
 {
-  "CodeMaze": {
-    "timestamp": "2026-07-22T19:54:34.101Z",
-    "message": "Request failed with status code 500",
-    "counter": 1
-  },
   "DevBlogs / OData": {
     "timestamp": "2025-08-31T22:44:41.331Z",
     "message": "Post is not valid: description is empty.",
