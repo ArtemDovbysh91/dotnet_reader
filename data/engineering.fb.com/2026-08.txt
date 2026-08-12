@@ -1,2 +1,3 @@
 https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/
 https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/
+https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/
