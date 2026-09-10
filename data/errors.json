@@ -29,6 +29,11 @@
     "message": "Post is not valid: title is empty.",
     "counter": 11
   },
+  "JetBrains / Releases": {
+    "timestamp": "2026-09-10T19:14:46.737Z",
+    "message": "Request failed with status code 403",
+    "counter": 1
+  },
   "KhalidAbuhakmeh": {
     "timestamp": "2026-08-11T04:04:10.759Z",
     "message": "Failed to parse html page by url https://khalidabuhakmeh.com. No posts found.",
