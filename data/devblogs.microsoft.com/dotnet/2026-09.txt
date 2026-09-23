@@ -3,6 +3,7 @@ https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp/
 https://devblogs.microsoft.com/dotnet/dotnet-11-rc-1/
 https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2026-servicing-updates/
 https://devblogs.microsoft.com/dotnet/dotnet-conf-2026-community-days-call-for-presenters/
+https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/
 https://devblogs.microsoft.com/dotnet/mstest-source-generation/
 https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/
 https://devblogs.microsoft.com/dotnet/share-your-dotnet-story/
