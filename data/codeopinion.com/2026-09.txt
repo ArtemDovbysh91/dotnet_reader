@@ -1,2 +1,3 @@
+https://codeopinion.com/avoid-api-breaking-changes/
 https://codeopinion.com/domain-events-are-not-your-public-api/
 https://codeopinion.com/event-driven-architecture-and-coupling-youre-not-as-decoupled-as-you-think/
