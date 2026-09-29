@@ -4,3 +4,4 @@ https://devblogs.microsoft.com/visualstudio/today-i-will-debug-a-production-cras
 https://devblogs.microsoft.com/visualstudio/today-i-will-find-hidden-latency-across-a-distributed-net-application/
 https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/
 https://devblogs.microsoft.com/visualstudio/today-i-will-review-github-prs/
+https://devblogs.microsoft.com/visualstudio/visual-studio-september-update-power-your-workflow-with-your-model/
