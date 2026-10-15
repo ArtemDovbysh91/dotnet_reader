@@ -4,3 +4,5 @@ https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-wi
 https://engineering.fb.com/2026/10/12/video-engineering/shipping-media-over-quic-at-meta-scale-for-instagram-live-ingest/
 https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/
 https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/
+https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/
+https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/
