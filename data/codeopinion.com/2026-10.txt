@@ -1,2 +1,3 @@
 https://codeopinion.com/crud-vs-task-driven/
+https://codeopinion.com/event-driven-architecture-problems/
 https://codeopinion.com/multi-tenant-best-practices-can-backfire/
