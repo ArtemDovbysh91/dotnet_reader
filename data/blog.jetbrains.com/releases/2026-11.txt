@@ -1,1 +1,2 @@
+https://blog.jetbrains.com/dotnet/2026/11/10/resharper-2026-3-release/
 https://blog.jetbrains.com/rscpp/2026/11/10/resharper-cpp-2026-3-class-layout-format-string-analysis-and-more/
