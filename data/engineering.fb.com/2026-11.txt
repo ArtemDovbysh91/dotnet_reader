@@ -2,3 +2,4 @@ https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-ap
 https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/
 https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/
 https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/
+https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/
