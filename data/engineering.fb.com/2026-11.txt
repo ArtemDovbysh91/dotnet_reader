@@ -3,3 +3,5 @@ https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-peop
 https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/
 https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/
 https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/
+https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/
+https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/
