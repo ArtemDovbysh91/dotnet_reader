@@ -34,6 +34,11 @@
     "message": "Failed to parse html page by url https://khalidabuhakmeh.com. No posts found.",
     "counter": 11
   },
+  "Meziantou": {
+    "timestamp": "2026-11-23T15:18:03.534Z",
+    "message": "request to https://api.telegram.org/bot5321562541:[REDACTED]/sendMessage failed, reason: read ECONNRESET",
+    "counter": 1
+  },
   "RadioDotNet": {
     "timestamp": "2025-03-22T09:04:11.330Z",
     "message": "Failed to parse html page by url https://radiodotnet.mave.digital. No posts found.",
