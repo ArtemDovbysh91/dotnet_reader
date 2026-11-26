@@ -1,1 +1,2 @@
 https://codeopinion.com/database-generated-ids/
+https://codeopinion.com/stale-data-consistency-boundaries/
